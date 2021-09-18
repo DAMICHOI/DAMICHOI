@@ -1,6 +1,6 @@
 
 <a href="https://github.com/DAMICHOI"><img alt="Github" src="https://img.shields.io/badge/Github-181717.svg?&style=flat-square&logo=Github&logoColor=white"/></a> 
-<a href="https://DAMICHOI.github.com"><img alt="Blog" src="https://img.shields.io/badge/Blog-EA4AAA.svg?&style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> 
+<a href="https://DAMICHOI.github.io"><img alt="Blog" src="https://img.shields.io/badge/Blog-EA4AAA.svg?&style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> 
 <a href="mailto:damichoi93@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/></a> 
 <a href="https://www.instagram.com/laura_.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/></a>  
 
